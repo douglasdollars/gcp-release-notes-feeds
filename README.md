@@ -1,8 +1,8 @@
 # Google Cloud Platform release notes XML feeds
-- This information is public, but wasn't easy to find in a single spot.
-- Great to throw into your Slack channels to get updates as they launch.
-- Submit a pull request with improvements, or say hi via [@YourFondestLove](https://twitter.com/YourFondestLove) or doug@favorite.cat in email
-- Subscribe to the [Google Cloud Platform newsletter](https://cloud.google.com/newsletter/) to stay up to date, as there is no plan, warranty, or guarantee that these URLs will remain vital or accurate.
+- This information is public, but wasn't easy to get in a single spot
+- Great to throw into your Slack channels to get updates as they launch
+- Submit a pull request with improvements, or say hi via [@YourFondestLove](https://twitter.com/YourFondestLove) or dollars@google.com in email
+- Subscribe to the [Google Cloud Platform newsletter](https://cloud.google.com/newsletter/) to stay up to date (in general)
 
 ## [AI & Machine Learning](https://cloud.google.com/products/machine-learning/)
 - https://cloud.google.com/feeds/ai-hub-release-notes.xml
