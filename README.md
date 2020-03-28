@@ -1,6 +1,6 @@
 # Google Cloud Platform release notes XML feeds
-- This information is public, but wasn't easy to get in a single spot
-- Great to throw into your Slack channels to get updates as they launch
+- [GCP Release Notes](http://cloud.google.com/release-notes) exist in a single page, but a unified feed is yet to come
+- These individual feeds are useful to throw into your Slack channels to get updates as they launch
 - Submit a pull request with improvements, or say hi via [@YourFondestLove](https://twitter.com/YourFondestLove) or dollars@google.com in email
 - Subscribe to the [Google Cloud Platform newsletter](https://cloud.google.com/newsletter/) to stay up to date (in general)
 
