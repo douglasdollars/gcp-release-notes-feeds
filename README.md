@@ -6,6 +6,8 @@
 
 ## [AI & Machine Learning](https://cloud.google.com/products/machine-learning/)
 - https://cloud.google.com/feeds/ai-hub-release-notes.xml
+- https://cloud.google.com/feeds/aiplatform-release-notes.xml
+- https://cloud.google.com/feeds/aiplatformnotebooks-release-notes.xml
 - https://cloud.google.com/feeds/cloud-talent-solution-release-notes.xml
 - https://cloud.google.com/feeds/recommendations-ai-release-notes.xml
 - https://cloud.google.com/feeds/cloud-tpu-release-notes.xml
@@ -22,9 +24,11 @@
 - https://cloud.google.com/feeds/cloud-speech-api-release-notes.xml
 - https://cloud.google.com/feeds/cloud-speech-to-text-release-notes.xml
 - https://cloud.google.com/feeds/cloud-text-to-speech-api-release-notes.xml
+- https://cloud.google.com/feeds/translate-release-notes.xml
 
 ### AutoML
 - https://cloud.google.com/feeds/automl-natural-language-release-notes.xml
+- https://cloud.google.com/feeds/automl-language-release-notes.xml
 - https://cloud.google.com/feeds/automl-tables-release-notes.xml
 - https://cloud.google.com/feeds/automl-translation-release-notes.xml
 - https://cloud.google.com/feeds/cloud-translation-api-release-notes.xml
@@ -64,6 +68,7 @@
 
 ## [Data Analytics](https://cloud.google.com/products/big-data/)
 - https://cloud.google.com/feeds/bi-engine-revision-history.xml
+- https://cloud.google.com/feeds/biengine-release-notes.xml
 - https://cloud.google.com/feeds/bigquery-ml-revision-history.xml
 - https://cloud.google.com/feeds/bigquery-revision-history.xml
 - https://cloud.google.com/feeds/cloud-composer-release-notes.xml
@@ -81,6 +86,9 @@
 - https://cloud.google.com/feeds/cloud-memorystore-for-redis-release-notes.xml
 - https://cloud.google.com/feeds/cloud-spanner-release-notes.xml
 - https://cloud.google.com/feeds/cloud-sql-release-notes.xml
+- https://cloud.google.com/feeds/cloud-sql-mysql-release-notes.xml
+- https://cloud.google.com/feeds/cloud-sql-postgres-release-notes.xml
+- https://cloud.google.com/feeds/cloud-sql-server-release-notes.xml
 
 ## [Developer Tools](https://cloud.google.com/products/tools/)
 - https://cloud.google.com/feeds/cloud-build-release-notes.xml
@@ -96,11 +104,12 @@
 - https://cloud.google.com/feeds/container-registry-release-notes.xml
 
 ## [Hybrid and Multi-Cloud](https://cloud.google.com/anthos/)
+- https://cloud.google.com/feeds/asset-release-notes.xml
 - https://cloud.google.com/feeds/anthos-config-management-release-notes.xml
 - https://cloud.google.com/feeds/anthos-release-notes.xml
 - https://cloud.google.com/feeds/config-connector-release-notes.xml
 - https://cloud.google.com/feeds/istio-on-gke-release-notes.xml
-- https://cloud.google.com/feeds/cloud-run-on-gke-release-notes.xml
+- https://cloud.google.com/feeds/runanthos-release-notes.xml
 - https://cloud.google.com/feeds/kubernetes-engine-rapid-channel-release-notes.xml
 - https://cloud.google.com/feeds/kubernetes-engine-release-notes.xml
 - https://cloud.google.com/feeds/kubernetes-engine-security-bulletins.xml
@@ -131,11 +140,13 @@
 - https://cloud.google.com/feeds/migrate-for-compute-engine-release-notes.xml
 
 ## [Networking](https://cloud.google.com/products/networking/)
+- https://cloud.google.com/feeds/networkintelligence-release-notes.xml
 - https://cloud.google.com/feeds/cloud-armor-release-notes.xml
 - https://cloud.google.com/feeds/google-cloud-armor-release-notes.xml
 - https://cloud.google.com/feeds/service-infrastructure-release-notes.xml
 - https://cloud.google.com/feeds/service-usage-release-notes.xml
 - https://cloud.google.com/feeds/virtual-private-cloud-release-notes.xml
+- https://cloud.google.com/feeds/vpc-release-notes.xml
 - https://cloud.google.com/feeds/vpc-service-controls-release-notes.xml
 - https://cloud.google.com/feeds/cloud-cdn-release-notes.xml
 - https://cloud.google.com/feeds/cloud-dns-release-notes.xml
@@ -150,12 +161,15 @@
 ## [Security](https://cloud.google.com/security/)
 - https://cloud.google.com/feeds/access-context-manager-release-notes.xml
 - https://cloud.google.com/feeds/binary-authorization-release-notes.xml
+- https://cloud.google.com/feeds/secret-manager-release-notes.xml
 - https://cloud.google.com/feeds/cloud-data-loss-prevention-release-notes.xml
 - https://cloud.google.com/feeds/cloud-iam-permissions-change-log.xml
 - https://cloud.google.com/feeds/cloud-iam-release-notes.xml
 - https://cloud.google.com/feeds/cloud-iap-release-notes.xml
 - https://cloud.google.com/feeds/cloud-identity-release-notes.xml
+- https://cloud.google.com/feeds/identityplatform-release-notes.xml
 - https://cloud.google.com/feeds/cloud-kms-release-notes.xml
+- https://cloud.google.com/feeds/managedmicrosoftad-release-notes.xml
 - https://cloud.google.com/feeds/phishing-protection-release-notes.xml
 - https://cloud.google.com/feeds/security-command-center-release-notes.xml
 - https://cloud.google.com/feeds/security-scanner-release-notes.xml
