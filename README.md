@@ -167,6 +167,7 @@
 - https://cloud.google.com/feeds/cloud-filestore-release-notes.xml
 - https://cloud.google.com/feeds/cloud-storage-release-notes.xml
 - https://cloud.google.com/feeds/transfer-appliance-release-notes.xml
+- https://cloud.google.com/feeds/storagetransfer-release-notes.xml
 
 ## Orbitera
 - https://docs.orbitera.com/feeds/orbitera-release-notes.xml
