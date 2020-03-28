@@ -19,8 +19,7 @@
 - https://cloud.google.com/feeds/cloud-natural-language-api-release-notes.xml
 - https://cloud.google.com/feeds/cloud-video-intelligence-api-release-notes.xml
 - https://cloud.google.com/feeds/cloud-vision-api-release-notes.xml
-- https://cloud.google.com/feeds/cloud-vision-product-search-api-release-notes.xml
-- https://cloud.google.com/feeds/cloud-vision-product-search-release-notes.xml
+- https://cloud.google.com/feeds/cloud-vision-api-product-search-release-notes.xml
 - https://cloud.google.com/feeds/cloud-speech-api-release-notes.xml
 - https://cloud.google.com/feeds/cloud-speech-to-text-release-notes.xml
 - https://cloud.google.com/feeds/cloud-text-to-speech-api-release-notes.xml
@@ -33,9 +32,10 @@
 - https://cloud.google.com/feeds/automl-translation-release-notes.xml
 - https://cloud.google.com/feeds/cloud-translation-api-release-notes.xml
 - https://cloud.google.com/feeds/automl-video-intelligence-release-notes.xml
-- https://cloud.google.com/feeds/cloud-automl-vision-api-release-notes.xml
-- https://cloud.google.com/feeds/cloud-automl-vision-object-detection-release-notes.xml
-- https://cloud.google.com/feeds/cloud-automl-vision-release-notes.xml
+- https://cloud.google.com/feeds/automl-video-intelligence-classification-release-notes.xml
+- https://cloud.google.com/feeds/vision-release-notes.xml
+- https://cloud.google.com/feeds/automl-vision-object-detection-release-notes.xml
+- https://cloud.google.com/feeds/automl-vision-release-notes.xml
 
 ## API Management
 - https://cloud.google.com/feeds/cloud-healthcare-api-release-notes.xml
@@ -96,12 +96,12 @@
 - https://cloud.google.com/feeds/cloud-code-for-intellij-release-notes.xml
 - https://cloud.google.com/feeds/cloud-tools-for-powershell-release-notes.xml
 - https://cloud.google.com/feeds/cloud-tools-for-visual-studio-release-notes.xml
-- https://cloud.google.com/feeds/cloud-sdk-release-notes.xml
 - https://cloud.google.com/feeds/cloud-source-repositories-release-notes.xml
 - https://cloud.google.com/feeds/cicp-release-notes.xml
 - https://cloud.google.com/feeds/cloud-scheduler-release-notes.xml
 - https://cloud.google.com/feeds/cloud-tasks-release-notes.xml
 - https://cloud.google.com/feeds/container-registry-release-notes.xml
+- Cloud SDK: Subscribe to these release notes at https://groups.google.com/forum/#!forum/google-cloud-sdk-announce
 
 ## [Hybrid and Multi-Cloud](https://cloud.google.com/anthos/)
 - https://cloud.google.com/feeds/asset-release-notes.xml
@@ -123,7 +123,6 @@
 - https://cloud.google.com/feeds/cloud-billing-release-notes.xml
 - https://cloud.google.com/feeds/deployment-manager-release-notes.xml
 - https://cloud.google.com/feeds/gcp-marketplace-release-notes.xml
-- https://cloud.google.com/feeds/marketplace-partners-release-notes.xml
 
 ### [Stackdriver](https://cloud.google.com/stackdriver/)
 - https://cloud.google.com/feeds/stackdriver-debugger-release-notes.xml
@@ -153,7 +152,6 @@
 - https://cloud.google.com/feeds/cloud-endpoints-release-notes.xml
 - https://cloud.google.com/feeds/cloud-interconnect-release-notes.xml
 - https://cloud.google.com/feeds/cloud-load-balancing-release-notes.xml
-- https://cloud.google.com/feeds/cloud-nat-release-notes.xml
 - https://cloud.google.com/feeds/cloud-router-release-notes.xml
 - https://cloud.google.com/feeds/cloud-vpn-release-notes.xml
 - https://cloud.google.com/feeds/network-service-tiers-release-notes.xml
@@ -172,7 +170,7 @@
 - https://cloud.google.com/feeds/managedmicrosoftad-release-notes.xml
 - https://cloud.google.com/feeds/phishing-protection-release-notes.xml
 - https://cloud.google.com/feeds/security-command-center-release-notes.xml
-- https://cloud.google.com/feeds/security-scanner-release-notes.xml
+- https://cloud.google.com/feeds/scc-release-notes.xml
 - https://cloud.google.com/feeds/resource-manager-release-notes.xml
 - https://cloud.google.com/feeds/web-risk-api-release-notes.xml
 - https://cloud.google.com/feeds/web-risk-release-notes.xml
