@@ -73,7 +73,7 @@
 - https://cloud.google.com/feeds/bigquery-revision-history.xml
 - https://cloud.google.com/feeds/cloud-composer-release-notes.xml
 - https://cloud.google.com/feeds/cloud-data-fusion-release-notes.xml
-- https://cloud.google.com/feeds/cloud-dataflow-release-notes.xml
+- https://cloud.google.com/feeds/dataflow-release-notes.xml
 - https://cloud.google.com/feeds/cloud-dataprep-release-notes.xml
 - https://cloud.google.com/feeds/cloud-dataproc-release-notes.xml
 - https://cloud.google.com/feeds/cloud-datastore-release-notes.xml
