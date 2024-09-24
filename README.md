@@ -169,7 +169,6 @@
 - https://cloud.google.com/feeds/cloud-kms-release-notes.xml
 - https://cloud.google.com/feeds/managedmicrosoftad-release-notes.xml
 - https://cloud.google.com/feeds/phishing-protection-release-notes.xml
-- https://cloud.google.com/feeds/security-command-center-release-notes.xml
 - https://cloud.google.com/feeds/scc-release-notes.xml
 - https://cloud.google.com/feeds/resource-manager-release-notes.xml
 - https://cloud.google.com/feeds/web-risk-api-release-notes.xml
