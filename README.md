@@ -100,7 +100,8 @@
 - https://cloud.google.com/feeds/cicp-release-notes.xml
 - https://cloud.google.com/feeds/cloud-scheduler-release-notes.xml
 - https://cloud.google.com/feeds/cloud-tasks-release-notes.xml
-- https://cloud.google.com/feeds/container-registry-release-notes.xml
+- https://cloud.google.com/feeds/container-registry-release-notes.xml [^1]
+- https://cloud.google.com/feeds/artifactregistry-release-notes.xml
 - Cloud SDK: Subscribe to these release notes at https://groups.google.com/forum/#!forum/google-cloud-sdk-announce
 
 ## [Hybrid and Multi-Cloud](https://cloud.google.com/anthos/)
@@ -182,3 +183,5 @@
 
 ## Orbitera
 - https://docs.orbitera.com/feeds/orbitera-release-notes.xml
+
+[^1]: Deprecated as of 2024/03/18: https://cloud.google.com/container-registry/docs/release-notes#March_18_2024. Superseded by Google Artifact Registry.
