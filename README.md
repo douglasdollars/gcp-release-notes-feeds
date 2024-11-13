@@ -31,7 +31,6 @@
 - https://cloud.google.com/feeds/automl-tables-release-notes.xml
 - https://cloud.google.com/feeds/automl-translation-release-notes.xml
 - https://cloud.google.com/feeds/cloud-translation-api-release-notes.xml
-- https://cloud.google.com/feeds/automl-video-intelligence-release-notes.xml
 - https://cloud.google.com/feeds/automl-video-intelligence-classification-release-notes.xml
 - https://cloud.google.com/feeds/vision-release-notes.xml
 - https://cloud.google.com/feeds/automl-vision-object-detection-release-notes.xml
@@ -180,8 +179,5 @@
 - https://cloud.google.com/feeds/cloud-storage-release-notes.xml
 - https://cloud.google.com/feeds/transfer-appliance-release-notes.xml
 - https://cloud.google.com/feeds/storagetransfer-release-notes.xml
-
-## Orbitera
-- https://docs.orbitera.com/feeds/orbitera-release-notes.xml
 
 [^1]: Deprecated as of 2024/03/18: https://cloud.google.com/container-registry/docs/release-notes#March_18_2024. Superseded by Google Artifact Registry.
